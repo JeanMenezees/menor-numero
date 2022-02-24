@@ -5,7 +5,7 @@
 
 ### Requisitos
 
-- **dotnet 6.0** 6.0 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+- **dotnet 6.0** https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 - **Visual Studio Code** https://code.visualstudio.com/?wt.mc_id=vscom_downloads
 
 ### Usando
